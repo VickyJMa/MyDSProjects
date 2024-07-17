@@ -1,3 +1,5 @@
 - 🎯 This file contains my experience on utilizing machine learning models in anomaly detection. 
 - 🧩 Feature engineering and exploratory data analysis (EDA) are important steps before utilizing any machine learning model on your dataset. 
 - ⛳️ Models I used include simple decision tree, GBM, deep learning, HBOS, ECOD, PCA, KNN, random forest, isolate forest, etc.
+- 🛼 All data I used for my projects is public available datasets that are intended for practice. No real company data involved.
+- 🛹 In each of the project files, I performed my practice and explained why I choose certain methods and summarized business insights that I drove from the analysis.
